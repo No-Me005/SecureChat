@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Certificates and Keys (NEVER commit these!)
+certs/
+*.pem
+*.p12
+*.key
+
+# IDE
+.vscode/
+.idea/
